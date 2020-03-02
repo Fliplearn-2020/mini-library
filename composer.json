@@ -1,0 +1,13 @@
+{
+    "name": "rvs/mini-library",
+    "authors": [{
+        "name": "Nitish Kesarwani",
+        "email": "itprofessionalnitish@gmail.com"
+    }],
+    "require": {
+        "slim/slim": "^3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
